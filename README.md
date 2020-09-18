@@ -1,12 +1,12 @@
 # Exploring-unsupervesed-text-classification-technique-and-brand-based-twitter-sentiment-analysis
 Exploring KSOM model with word2vec, doc2vec and SBERT models, comparison were performed with LSTMs (bidirectional and unidirectional), conv1d, Supervised BERT models
 - The polarity of associated sentiments was visualized by tavleau dashboards <br>
-
-- __Read Project_report.pdf for comprehensive understanding of dataset used, data preprocessing, data modelling, experimented techniques, and the data visualization obtained.__
+![](/images/Dashboard_results.PNG)
+- __Read Project_Report.pdf for comprehensive understanding of dataset used, data preprocessing, data modelling, experimented techniques, and the data visualization obtained.__
 <br>
 - A typical view for the Amazon's and its compettitor twitter sentiment analysis on Tableau Dashboard looks like this
 <br>
-![y](/images/Dashboard_results.PNG)
+![](/images/Dashboard_results.PNG)
 <br>
 - A typical sentiment plarity plot obtained by training Kohononn's self organizing map using SBERT model looks like this :
 ![](/images/KSOM with SBERT.PNG)
