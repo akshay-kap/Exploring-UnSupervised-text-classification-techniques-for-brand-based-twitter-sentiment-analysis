@@ -5,7 +5,7 @@ Exploring KSOM model with word2vec, doc2vec and SBERT models, comparison were pe
 - __Read Project_report.pdf for comprehensive understanding of dataset used, data preprocessing, data modelling, experimented techniques, and the data visualization obtained.__
 <br>
 - A typical view for the Amazon's and its compettitor twitter sentiment analysis on Tableau Dashboard looks like this :
-![](/images/Dashboard_results.PNG)
+![y](/images/Dashboard_results.PNG)
 <br>
 - A typical sentiment plarity plot obtained by training Kohononn's self organizing map using SBERT model looks like this :
 ![](/images/KSOM with SBERT.PNG)
