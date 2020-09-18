@@ -1,4 +1,4 @@
-# Exploring-unsupervesed-text-classification-technique-and-brand-based-twitter-sentiment-analysis
+# Exploring-unsupervised-text-classification-technique-and-brand-based-twitter-sentiment-analysis
 Exploring KSOM model with word2vec, doc2vec and SBERT models, comparison were performed with LSTMs (bidirectional and unidirectional), conv1d, Supervised BERT models
 - The polarity of associated sentiments was visualized by Tableau dashboards <br>
 ![](/images/Dashboard_results.PNG)
